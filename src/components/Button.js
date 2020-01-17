@@ -24,7 +24,7 @@ Button.propTypes = {
 }
 
 Button.defaultProps = {
-    name: 'Test Button'
+    name: 'Test Button test'
 }
 
 export default Button;
